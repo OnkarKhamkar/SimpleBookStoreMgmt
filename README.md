@@ -1,3 +1,5 @@
+#Spring Boot Thymeleaf CRUD project
+
 Build a Spring Boot Thymeleaf CRUD example with Maven that use Spring Data JPA to interact with MySQL database. You'll know:
 
 How to configure Spring Data, JPA, Hibernate to work with Database.
